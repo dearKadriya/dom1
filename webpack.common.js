@@ -6,7 +6,7 @@ module.exports = {
   target: 'web',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/dom1',
+    publicPath: '/',
   },
   resolve: {
     extensions:['.js', '.jsx']
