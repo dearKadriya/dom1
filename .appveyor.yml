@@ -1,5 +1,6 @@
 image: Ubuntu1804 #образдлясборки
 stack: node 12 #окружение
+baseurl: /dom1
 branches:
   only:
     - master #веткаgit
