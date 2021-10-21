@@ -6,4 +6,4 @@
 [Migration Guide](https://webpack.js.org/migrate/5/)
 
 Сборка:
-https://dearkadriya.github.io/envDeployment/
+https://dearkadriya.github.io/dom1/
